@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="TextMate RSpec">
+  <template name="dests" value="describe $VARIABLE_1$, &quot;$VARIABLE_2$&quot; do&#10;  $END$&#10;end" description="describe (type, string)" toReformat="true" toShortenFQNames="true">
+    <variable name="VARIABLE_1" expression="" defaultValue="Type" alwaysStopAt="true" />
+    <variable name="VARIABLE_2" expression="" defaultValue="description" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSP" value="false" />
+      <option name="SQL" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="MXML" value="false" />
+      <option name="GSP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
+

@@ -1,0 +1,6 @@
+com.intellij
+com.squareup.ideaplugin.dagger
+ro.redeul.google.go
+net.nicoulaj.idea.markdown
+com.yonilevy.codeaging
+com.squareup.ideaplugin.otto

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filetype binary="false" default_extension="" description="DRL" name="Drools DRL rule">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="agenda-group;assert;auto-focus;duration;eval;function;import;modify;new;no-loop;package;query;retract;return;rule;salience" ignore_case="false" />
+    <keywords2 keywords="end;exists;false;not;or;then;true;when" />
+    <keywords3 keywords="!=;*;-&gt;;:;&lt;;&lt;=;=;==;&gt;;&gt;=;contains;excludes;matches" />
+    <keywords4 keywords="Double;Integer;String" />
+  </highlighting>
+  <extensionMap />
+</filetype>
+
