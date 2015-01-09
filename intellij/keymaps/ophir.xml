@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="ophir" parent="$default">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta C" />
@@ -186,6 +185,9 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta G" />
   </action>
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="control meta UP" />
+  </action>
   <action id="GotoRow">
     <keyboard-shortcut first-keystroke="meta G" />
   </action>
@@ -310,4 +312,3 @@
     <keyboard-shortcut first-keystroke="control alt W" />
   </action>
 </keymap>
-
